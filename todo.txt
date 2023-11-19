@@ -1,0 +1,15 @@
+Implement:
+    Data Structures:
+        Linkedlist (Done)
+        Stack
+            Bonus: Reverse string with stack
+        Map
+        Heap
+        Tree
+        ??
+    Algorithms:
+        BubbleSort
+        QuickSort
+        LRU
+            Bonus: Implement simple text prediction
+        ??
